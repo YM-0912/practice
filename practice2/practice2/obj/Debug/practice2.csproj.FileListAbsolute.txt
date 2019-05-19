@@ -1,0 +1,10 @@
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\bin\Debug\practice2.exe.config
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\bin\Debug\practice2.exe
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\bin\Debug\practice2.pdb
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\obj\Debug\practice2.csprojAssemblyReference.cache
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\obj\Debug\practice2.Form1.resources
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\obj\Debug\practice2.Properties.Resources.resources
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\obj\Debug\practice2.csproj.GenerateResource.cache
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\obj\Debug\practice2.csproj.CoreCompileInputs.cache
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\obj\Debug\practice2.exe
+C:\Users\Yukari Miura\Desktop\practiceGit\practice2\practice2\obj\Debug\practice2.pdb

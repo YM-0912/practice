@@ -1,0 +1,10 @@
+C:\Users\Yukari Miura\source\repos\practice1\practice1\bin\Debug\practice1.exe.config
+C:\Users\Yukari Miura\source\repos\practice1\practice1\bin\Debug\practice1.exe
+C:\Users\Yukari Miura\source\repos\practice1\practice1\bin\Debug\practice1.pdb
+C:\Users\Yukari Miura\source\repos\practice1\practice1\obj\Debug\practice1.csprojAssemblyReference.cache
+C:\Users\Yukari Miura\source\repos\practice1\practice1\obj\Debug\practice1.Form1.resources
+C:\Users\Yukari Miura\source\repos\practice1\practice1\obj\Debug\practice1.Properties.Resources.resources
+C:\Users\Yukari Miura\source\repos\practice1\practice1\obj\Debug\practice1.csproj.GenerateResource.cache
+C:\Users\Yukari Miura\source\repos\practice1\practice1\obj\Debug\practice1.csproj.CoreCompileInputs.cache
+C:\Users\Yukari Miura\source\repos\practice1\practice1\obj\Debug\practice1.exe
+C:\Users\Yukari Miura\source\repos\practice1\practice1\obj\Debug\practice1.pdb
