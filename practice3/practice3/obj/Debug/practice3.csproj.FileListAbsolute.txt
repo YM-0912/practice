@@ -1,0 +1,11 @@
+C:\Users\Yukari Miura\practice\practice3\practice3\bin\Debug\practice3.exe.config
+C:\Users\Yukari Miura\practice\practice3\practice3\bin\Debug\practice3.exe
+C:\Users\Yukari Miura\practice\practice3\practice3\bin\Debug\practice3.pdb
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.csprojAssemblyReference.cache
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.MainWindow.resources
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.Properties.Resources.resources
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.ResistrationWindow.resources
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.csproj.GenerateResource.cache
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.csproj.CoreCompileInputs.cache
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.exe
+C:\Users\Yukari Miura\practice\practice3\practice3\obj\Debug\practice3.pdb
