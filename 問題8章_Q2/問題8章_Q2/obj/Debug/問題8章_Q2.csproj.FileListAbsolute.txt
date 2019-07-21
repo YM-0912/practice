@@ -1,0 +1,7 @@
+C:\Users\Yukari Miura\Desktop\practice\問題8章_Q2\問題8章_Q2\bin\Debug\問題8章_Q2.exe.config
+C:\Users\Yukari Miura\Desktop\practice\問題8章_Q2\問題8章_Q2\bin\Debug\問題8章_Q2.exe
+C:\Users\Yukari Miura\Desktop\practice\問題8章_Q2\問題8章_Q2\bin\Debug\問題8章_Q2.pdb
+C:\Users\Yukari Miura\Desktop\practice\問題8章_Q2\問題8章_Q2\obj\Debug\問題8章_Q2.csprojAssemblyReference.cache
+C:\Users\Yukari Miura\Desktop\practice\問題8章_Q2\問題8章_Q2\obj\Debug\問題8章_Q2.csproj.CoreCompileInputs.cache
+C:\Users\Yukari Miura\Desktop\practice\問題8章_Q2\問題8章_Q2\obj\Debug\問題8章_Q2.exe
+C:\Users\Yukari Miura\Desktop\practice\問題8章_Q2\問題8章_Q2\obj\Debug\問題8章_Q2.pdb
